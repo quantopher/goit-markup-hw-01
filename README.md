@@ -1,1 +1,1 @@
-Goit 1.ödev
+Goit First Assignment on FullStack Dev Course
